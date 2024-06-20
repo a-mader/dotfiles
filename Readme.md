@@ -10,3 +10,9 @@
 - [ohmyposh](https://ohmyposh.dev/)
 - [zinit](https://github.com/zdharma-continuum/zinit)
 - [nala](https://gitlab.com/volian/nala/-/wikis/Installation)
+
+
+## Installation
+```bash
+curl -L https://raw.githubusercontent.com/a-mader/dotfiles/main/bootstrapi.sh | bash
+```
