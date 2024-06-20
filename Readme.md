@@ -9,3 +9,4 @@
 - [stow](https://www.gnu.org/software/stow/)
 - [ohmyposh](https://ohmyposh.dev/)
 - [zinit](https://github.com/zdharma-continuum/zinit)
+- [nala](https://gitlab.com/volian/nala/-/wikis/Installation)
