@@ -27,7 +27,7 @@ apt-get update -y
 apt-get install -y nala
 
 # Install the required packages
-nala install -y build-essential wget curl git zip unzip vim net-tools iputils-ping dnsutils netcat-traditional gpg passwd fonts-firacode tmux ripgrep sed unzip jq tree btop
+nala install -y build-essential wget curl git zip unzip vim net-tools iputils-ping dnsutils netcat-traditional gpg passwd fonts-firacode tmux ripgrep sed unzip jq tree btop zsh
 
 # Cloning the .zshrc file to the home directory
 
